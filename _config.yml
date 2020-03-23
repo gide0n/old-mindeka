@@ -91,10 +91,10 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Jose Miguel
   picture:
-  email:
-  twitter:
+  email: 
+  twitter: jmdelosreyes
   links:
     - title:
       url:
@@ -105,3 +105,5 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+copyright: "Este es mi site!"
