@@ -80,13 +80,13 @@ defaults:
 # Site Author
 author:
   name: Jose Miguel
-  picture:
+  picture: #
   email: 
   twitter: jmdelosreyes
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/jmdelosreyes
+      icon: fab fa-twitter-square
 
 # Footer Links
 footer_links:
