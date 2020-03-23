@@ -105,7 +105,8 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-
-copyright:
   - title: Icons
     url: https://www.flaticon.com
+    icon: 
+
+copyright: "Este es mi site"
