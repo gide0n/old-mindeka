@@ -1,16 +1,16 @@
 # Sample site navigation bar links
 
-- title: Home
-  url: /
+# - title: Home
+#   url: /
 - title: Posts
   url: /posts/
-- title: Categories
+- title: Categorías
   url: /categories/
-- title: Tags
+- title: Etiquetas
   url: /tags/
 # - title: Recipes
 #   url: /recipes/
-- title: Search
+- title: Buscar
   url: /search/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
