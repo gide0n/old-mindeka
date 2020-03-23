@@ -106,4 +106,5 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
-copyright: "Este es mi site!"
+copyright: "
+  - Icons: <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>
