@@ -6,7 +6,7 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: es-ES
 title: "Mindeka"
-description: "Una biblioteca llena de ideas y mucho open source."
+description: "Biblioteca de pensamientos e ideas."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /images/mindeka.png
