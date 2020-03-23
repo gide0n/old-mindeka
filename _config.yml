@@ -80,7 +80,7 @@ defaults:
 # Site Author
 author:
   name: Jose Miguel
-  picture: #
+  picture: /images/pirata.png
   email: 
   twitter: jmdelosreyes
   links:
