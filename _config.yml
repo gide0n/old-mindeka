@@ -107,6 +107,6 @@ footer_links:
     icon: fas fa-rss-square
   - title: Icons
     url: https://www.flaticon.com
-    icon: 
+    icon: fa fa-copyright
 
 copyright: "Este es mi site"
