@@ -4,7 +4,7 @@ categories:
   - Pensamiento
 tags:
   - Inspiración
-  - Cita
+  - Citas
 ---
 
 > Para alcanzar lo imposible, hay que intentar lo absurdo.
