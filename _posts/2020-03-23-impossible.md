@@ -1,5 +1,5 @@
 ---
-title: "¿Es imposible?"
+title: "Lo imposible"
 categories:
   - Pensamiento
 tags:
