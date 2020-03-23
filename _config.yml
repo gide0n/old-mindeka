@@ -10,7 +10,7 @@ description: "Biblioteca de pensamientos e ideas."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /images/mindeka.png
-date_format: "%d-%mm-%Y"
+date_format: "%d/%m/%Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax:
