@@ -58,8 +58,9 @@ Su conjunto es de sobresaliente.
 Una serie anime muy bien realizada y adaptada, que por lo que he podido leer, fue bastante críticada en sus inicios, pero que en todos sus aspectos cumple con creces.
 {: .text-justify}
 Su historia entretendrá tanto a los más exigentes como a los que desean pasar un buen rato, el hilo argumental te va enganchando poco a poco, aunque también tengo que decir, que la trama primera, la muerte de la alpaca, queda un poco separada a lo largo de los capítulos dejando demasiado protagonismo a la historia de amor. Esto no hace perder interés, pero si puede echar hacía atrás a más de uno al ver como comienza la serie y como se va desarrollando.
-
+{: .text-justify}
 Por lo demás, creo que es una serie realmente interesante, que deja con ganas de más en su final y que esperemos que Netflix continue con su segunda temporada.
-
+{: .text-justify}
 # NOTA
 [8.0](#){: .btn .btn--primary .btn--x-large}
+{: .text-center}
