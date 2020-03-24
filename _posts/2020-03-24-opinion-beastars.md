@@ -1,8 +1,8 @@
 ---
 title: "Opinión: Beastars"
 image: 
-  path: /images/beastars-wp.jpg
-  thumbnail: /images/beastars-wp_400x207.jpg
+  path: /images/beastars-tn.jpg
+  thumbnail: /images/beastars-tn.jpg
   caption: "Image from [collabo-cafe.com](https://collabo-cafe.com/events/collabo/beastars-ten-yurakucho-marui2019/)"
 categories:
   - Series
