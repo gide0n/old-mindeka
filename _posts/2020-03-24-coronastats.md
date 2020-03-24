@@ -10,6 +10,7 @@ tags:
 
 Desde que empezaron los primeros casos de **Coronavirus** uso la siguiente página para estar informado de como evoluciona, la ya conocida "pandemia" por este virus. 
 {: .text-justify}
+![image-center]({{ '/images/coronastats_co.jpg' | absolute_url }}){: .align-center}
 
 <!--more-->
 
@@ -19,4 +20,3 @@ El website ha sido desarrollado por un usuario habitual de reddit llamado **Demo
 {: .text-justify}
 Para ver estas fuentes únicamente tendréis que ir a la parte baja izquierda del website y pulsar en la opción de **+More**.
 {: .text-justify}
-![image-center]({{ '/images/coronastats_co.jpg' | absolute_url }}){: .align-center}
