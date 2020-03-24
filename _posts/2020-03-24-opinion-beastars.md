@@ -13,11 +13,21 @@ tags:
 last_modified_at: 2020-03-24T00:33:20+01:00
 ---
 
-Debo decir antes de nada que no soy un gran experto en **anime**, soy de los que va picando de aquí para allá según el tema que trate el anime en cuestión, es por ello que este texto debe entenderse como lo que es, una opinión de la serie después de haber visto la primera temporada de **Beaststars** estrenada por Neflix el pasado 13 de Marzo.
+Debo decir antes de nada, que no me considero un gran experto en **anime**, sino que soy de los que va picando de aquí para allá según el tema que trate el anime en cuestión y me interese, es por ello que este texto debe entenderse como lo que es, una opinión de la serie después de haber visto la primera temporada de **Beaststars** estrenada por Neflix el pasado 13 de Marzo.
+
+Comenzaré diciendo que **Beaststars** es una serie que sin duda no te dejará indiferente, si algo te muestra, son unos personajes muy bien definidos con rasgos que identifican claramente sus emociones, sus miedos, sus pensamientos...
 
 <!--more-->
 
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
+# Sinopsis
+
+Haciendo una breve introducción de lo que nos deparará **Beaststars** se trata de una historia en una sociedad civilizada de animales antropomórficos en la existe una clara separación entre carnívoros y herbívoros, pero dicha división no es en ningún caso física, pues conviven los unos con los otros.
+
+El progonista es Legoshi, un lobo gris de gran tamaño, cuya tímidez será más que patente desde el principio. Nos lo presentan como miembro de un grupo de teatro en el que trabajo como escenógrafo, apoyando a los actores y donde destaca **Rouis**, un ciervo rojo 
+
+Legoshi, un gran lobo gris, es un estudiante tímido y tranquilo de la Academia Cherryton, donde vive con varios estudiantes carnívoros, incluido su amigo labrador, Jack. Como miembro del club de teatro de la escuela, Legosi trabaja como escenógrafo y apoya a los actores del club, encabezados por el alumno estrella Louis, un ciervo rojo.
+
+Pero de repente, Tem la alpaca es brutalmente asesinada y devorada en la noche, creando una ola de inquietud y desconfianza entre estudiantes herbívoros y carnívoros. Al mismo tiempo, Legosi tiene un fatídico encuentro con Haru, una pequeña coneja enana blanca y comienza a desarrollar sentimientos complejos por ella.
 
 ```yaml
 excerpt_separator: "<!--more-->"
