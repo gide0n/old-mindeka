@@ -9,8 +9,6 @@ categories:
 tags:
   - Anime
   - Netflix
-
-last_modified_at: 2020-03-24T00:33:20+01:00
 ---
 
 Debo decir antes de nada, que no me considero un gran experto en **anime**, sino que soy de los que va picando de aquí para allá según el tema que trate el anime en cuestión y me interese, es por ello que este texto debe entenderse como lo que es, una opinión de la serie después de haber visto la primera temporada de **Beaststars** estrenada por Neflix el pasado 13 de Marzo.
