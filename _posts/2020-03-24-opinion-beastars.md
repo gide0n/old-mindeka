@@ -23,11 +23,9 @@ Comenzaré diciendo que **Beaststars** es una serie que sin duda no te dejará i
 
 Haciendo una breve introducción de lo que nos deparará **Beaststars** se trata de una historia en una sociedad civilizada de animales antropomórficos en la existe una clara separación entre carnívoros y herbívoros, pero dicha división no es en ningún caso física, pues conviven los unos con los otros.
 
-El progonista es Legoshi, un lobo gris de gran tamaño, cuya tímidez será más que patente desde el principio. Nos lo presentan como miembro de un grupo de teatro en el que trabajo como escenógrafo, apoyando a los actores y donde destaca **Rouis**, un ciervo rojo 
+El progonista es **Legoshi**, un lobo gris de gran tamaño, cuya tímidez será más que patente desde el principio. Nos lo presentan como miembro de un grupo de teatro en el que trabajo como escenógrafo, apoyando a los actores y donde destaca **Rouis**, un ciervo rojo, que con una personalidad arrebatadora, indobegable, será el antagonista perfecto del personaje principal.
 
-Legoshi, un gran lobo gris, es un estudiante tímido y tranquilo de la Academia Cherryton, donde vive con varios estudiantes carnívoros, incluido su amigo labrador, Jack. Como miembro del club de teatro de la escuela, Legosi trabaja como escenógrafo y apoya a los actores del club, encabezados por el alumno estrella Louis, un ciervo rojo.
-
-Pero de repente, Tem la alpaca es brutalmente asesinada y devorada en la noche, creando una ola de inquietud y desconfianza entre estudiantes herbívoros y carnívoros. Al mismo tiempo, Legosi tiene un fatídico encuentro con Haru, una pequeña coneja enana blanca y comienza a desarrollar sentimientos complejos por ella.
+La trama se desarrollará justo cuando **Tem**, una alpaca es asesinada salvajemente por la noche, esto generará un estado de desconfianza plena y total entre herbívoros y carnívoros, pues unos y otros no se encuentran tranquilos tras lo sucedido. Después de esto se unirá la segunda trama y no menos importante, donde Legoshi tiene un encuentro fortuito con **Haru**, una pequeña coneja de color blanco, adorable y por la que extrañamente comenzará a sentir algo.
 
 ```yaml
 excerpt_separator: "<!--more-->"
