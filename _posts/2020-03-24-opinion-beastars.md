@@ -62,5 +62,10 @@ Su historia entretendrá tanto a los más exigentes como a los que desean pasar 
 Por lo demás, creo que es una serie realmente interesante, que deja con ganas de más en su final y que esperemos que Netflix continue con su segunda temporada.
 {: .text-justify}
 # NOTA
+{: .text-center}
 [8.0](#){: .btn .btn--primary .btn--x-large}
 {: .text-center}
+**Lo mejor:** La calidad visual con CGI muy bien ajustado y lo bien desarrollados que están los personajes.
+{: .notice--success}
+**Lo peor:** El inicio tramposo y que puede engañar a más de uno de lo que puede parecer a lo que es finalmente.
+{: .notice--danger}
