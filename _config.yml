@@ -1,8 +1,8 @@
 #------------------------
 # CONFIGURACIÓN DE TEMA |
 #------------------------
-theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
+# theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: es-ES
 title: "Mindeka"
