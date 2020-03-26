@@ -1,5 +1,5 @@
 ---
-title: "So much love de Nada surf"
+title: "'So much love' de Nada surf"
 categories:
   - Música
 tags:
