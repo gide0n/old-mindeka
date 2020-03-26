@@ -8,4 +8,4 @@ tags:
 last_modified_at: 2018-02-01T12:54:35-05:00
 ---
 
-{% include responsive-embed url="https://youtu.be/SETkPwSEgNs" %}
+{% raw %}{% include responsive-embed url="https://www.youtube.com/watch?v=SETkPwSEgNs" ratio="16:9" %}{% endraw %}
