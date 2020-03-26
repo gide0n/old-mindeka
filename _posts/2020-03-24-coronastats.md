@@ -1,5 +1,5 @@
 ---
-title: "Estadísticas sobre Coronavirus"
+title: "> Estadísticas sobre Coronavirus"
 excerpt_separator: "<!--more-->"
 categories:
   - Información
