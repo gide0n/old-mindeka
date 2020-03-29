@@ -76,6 +76,7 @@ Echamos un vistazo a la clave pública:
 ```bash
 $ cat id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDDGnQn+2Jld5Y/822sLmZc/1PC0+gm3ORtbRPEUvzuqMIMOVg2ImZPApj/d7+K57MPy7pQDn/iwi3QkLzpf/tL9LXF2+FouzVsSeZgR1dd7+3QGTMPch+5hXZxuims+zZOLFuXqXzhb00TSMbH5yVBH1gv+qCZj7N/DvRgok+2Fae1I+Fr0/7ALIaLfFEo5CYfrUNyfuD0ZpJ9GIrv6+sBWbCOomzuw5SMIccbX4VQ+DLmEoMwl3A3GQf3yNrAtjjolPm1zJ0YAd+Kr5UWREugxTgLslnMHFVozPn5byuj2fT4dQPiB0Zj/mzQf+BWGaT+lI3P/P08mG0gdpD39MUiKGjh0XYbQQh731cnMJK1gTzphPyinROv4S/Pj1HFhSEAbsZJP9l/ZyVi1qupTOFocWEQf0o4yNsVpogDpUQJwEyG5ftQDsmjbHD5EQRMFXktnItdSqhbTVL+qSiB96Jd66CV9+bklUQbp9w3pT0beZDrKQdPKmrlRYS2MeZB1z5kMnDTm/C1fSDHAuqYAxCyZTBc3ncBpzW7AnWczUdk0zIiToGVs8wE16suGWqlZA2gGLIkY3LdvAkzgm9HBIosgZVEPABN4nbMAqv/NqXJd2/e6cFICllX8YhyBcYL9OfwFPK6OUxQg0AKk/rJwSO6aGxDOIHVY16+DvwuQRx1SQ== jmdlr@casa
+```
 
 Ese texto es lo que tenemos que copiar en todos los servidores remotos a los que queramos conectar vía ssh, pero para hacerlo más fácil, existe un comando que nos ayudará a copiarlo.
 
@@ -94,6 +95,7 @@ En mi ejemplo, accediendo con mi usuario "jmdlr" sería así:
 ```bash
 $ cd /home/jmdlr/.ssh
 $ ssh-copy-id -i id_rsa.pub jmdlr@10.5.1.5
+```
 
 Y si todo va bien me diría lo siguiente hasta preguntarme cual es mi **password** del usuario para acceder por primera vez:
 <pre>
@@ -109,3 +111,8 @@ Now try logging into the machine, with:   "ssh 'jmdlrk@10.5.1.5'"
 and check to make sure that only the key(s) you wanted were added.
 </pre>
 
+En el paso que solicita el "password" tendremos que añadirlo y para la próxima vez que queramos acceder tendremos que hacer lo que indica más abajo, simplemente teclearemos **ssh jmdlr@10.5.1.5** y estaremos dentro sin solicitarnos contraseña alguna.
+
+Espero que os haya sido fácil de seguir, cualquier cosilla preguntadme en mi cuenta de Twitter: @jmdelosreyes
+
+..logout..
