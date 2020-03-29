@@ -48,3 +48,10 @@ The key's randomart image is:
 ```
 
 Breve explicación de cada pregunta:
+**Enter file in which to save the key (/home/jmdlr/.ssh/id_rsa):** ubicación donde se almacenará nuestra clave tanto privada como pública. Se puede modificar pero no es necesario.
+**Enter passphrase (empty for no passphrase):** se puede añadir una frase por si quieres fortalecer la seguridad de tu clave. Por experiencia dejadla en blanco, terminaréis por olvidarla si no la apuntáis y tendréis que generar una nueva.
+
+El resto de líneas solo confirman que se han creado las claves con tu figerprint asociado.
+Ya estaría lista.
+
+## 
