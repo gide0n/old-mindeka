@@ -23,7 +23,7 @@ $ ssh-keygen -b 4096
 Con el parámetro **-b** indicamos que queremos que sea una clave robusta de 4096 bits. Con 2048 bits sería suficiente, pero me gusta ser un tipo duro :D
 
 Durante la generación nos hará una serie de preguntas que tendremos que responder si queremos cambiar algo o bien dejar por defecto:
-```bash
+<pre>
 jmdlr@casa:~$ ssh-keygen -b 4096
 Generating public/private rsa key pair.
 Enter file in which to save the key (/home/jmdlr/.ssh/id_rsa):
@@ -45,12 +45,11 @@ The key's randomart image is:
 |         .       |
 |                 |
 +----[SHA256]-----+
-```
+</pre>
 
 Breve explicación de cada pregunta:
 
 **Enter file in which to save the key (/home/jmdlr/.ssh/id_rsa):** ubicación donde se almacenará nuestra clave tanto privada como pública. Se puede modificar pero no es necesario.
-
 **Enter passphrase (empty for no passphrase):** se puede añadir una frase por si quieres fortalecer la seguridad de tu clave. Por experiencia dejadla en blanco, terminaréis por olvidarla si no la apuntáis y tendréis que generar una nueva.
 
 El resto de líneas solo confirman que se han creado las claves con tu figerprint asociado.
