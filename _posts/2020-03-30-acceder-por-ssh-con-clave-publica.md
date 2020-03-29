@@ -45,5 +45,6 @@ The key's randomart image is:
 |         .       |
 |                 |
 +----[SHA256]-----+
+```
 
 Breve explicación de cada pregunta:
