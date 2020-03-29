@@ -48,10 +48,27 @@ The key's randomart image is:
 ```
 
 Breve explicación de cada pregunta:
+
 **Enter file in which to save the key (/home/jmdlr/.ssh/id_rsa):** ubicación donde se almacenará nuestra clave tanto privada como pública. Se puede modificar pero no es necesario.
+
 **Enter passphrase (empty for no passphrase):** se puede añadir una frase por si quieres fortalecer la seguridad de tu clave. Por experiencia dejadla en blanco, terminaréis por olvidarla si no la apuntáis y tendréis que generar una nueva.
 
 El resto de líneas solo confirman que se han creado las claves con tu figerprint asociado.
 Ya estaría lista.
 
-## 
+## Consultar nuestras claves
+
+Ahora ya podremos ver nuestras claves generadas, si no hemos cambiado la ruta por defecto estará en una carpeta oculta dentro de la "home" de nuestro usuario llamada **.ssh/**
+
+Ahora tendríamos que ir a nuestra "home" en mi caso es **/home/jmdlr** y luego acceder a la carpeta oculta .ssh:
+```bash
+$ cd /home/jmdlr/
+$ cd .ssh/
+$ ls -lrth
+total 8.0K
+-rw------- 1 jmdlr jmdlr 3.2K Mar 30 00:42 id_rsa
+-rw-r--r-- 1 jmdlr jmdlr  736 Mar 30 00:42 id_rsa.pub
+```
+
+Veremos que tenemos dos ficheros que tienen por nombre **id_rsa**. Una de ellas es la clave privada (id_rsa) la cual **NO** tendremos que compartir y luego la clave pública (id_rsa.pub) que es la que subiremos a nuestro servidor o al servidor que deseemos acceder sin que nos solicite password.
+
