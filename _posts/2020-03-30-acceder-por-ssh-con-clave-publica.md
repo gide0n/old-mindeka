@@ -109,6 +109,6 @@ and check to make sure that only the key(s) you wanted were added.
 
 En el paso que solicita el "password" tendremos que añadirlo y para la próxima vez que queramos acceder tendremos que hacer lo que indica más abajo, simplemente teclearemos **ssh jmdlr@10.5.1.5** y estaremos dentro sin solicitarnos contraseña alguna.
 {: .text-justify}
-Espero que os haya sido fácil de seguir, cualquier cosilla preguntadme en mi cuenta de Twitter: @jmdelosreyes
+Espero que os haya sido fácil de seguir, cualquier cosilla preguntadme en mi cuenta de Twitter: [@jmdelosreyes](https://twitter.com/jmdelosreyes)
 
 >logout<
