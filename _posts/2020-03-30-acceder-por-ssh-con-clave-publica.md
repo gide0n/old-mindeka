@@ -26,8 +26,8 @@ Durante la generación nos hará una serie de preguntas que tendremos que respon
 <pre>
 jmdlr@casa:~$ ssh-keygen -b 4096
 Generating public/private rsa key pair.
-**Enter file in which to save the key (/home/jmdlr/.ssh/id_rsa):**
-**Enter passphrase (empty for no passphrase):**
+Enter file in which to save the key (/home/jmdlr/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
 Enter same passphrase again:
 Your identification has been saved in /home/jmdlr/.ssh/id_rsa.
 Your public key has been saved in /home/jmdlr/.ssh/id_rsa.pub.
@@ -49,9 +49,8 @@ The key's randomart image is:
 
 Breve explicación de cada pregunta:
 
-**Enter file in which to save the key (/home/jmdlr/.ssh/id_rsa):** ubicación donde se almacenará nuestra clave tanto privada como pública. Se puede modificar pero no es necesario.
-
-**Enter passphrase (empty for no passphrase):** se puede añadir una frase por si quieres fortalecer la seguridad de tu clave. Por experiencia dejadla en blanco, terminaréis por olvidarla si no la apuntáis y tendréis que generar una nueva.
+* **Enter file in which to save the key (/home/jmdlr/.ssh/id_rsa):** ubicación donde se almacenará nuestra clave tanto privada como pública. Se puede modificar pero no es necesario.
+* **Enter passphrase (empty for no passphrase):** se puede añadir una frase por si quieres fortalecer la seguridad de tu clave. Por experiencia dejadla en blanco, terminaréis por olvidarla si no la apuntáis y tendréis que generar una nueva.
 
 El resto de líneas solo confirman que se han creado las claves con tu figerprint asociado.
 Ya estaría lista.
@@ -69,7 +68,6 @@ total 8.0K
 -rw------- 1 jmdlr jmdlr 3.2K Mar 30 00:42 id_rsa
 -rw-r--r-- 1 jmdlr jmdlr  736 Mar 30 00:42 id_rsa.pub
 ```
-
 Veremos que tenemos dos ficheros que tienen por nombre **id_rsa**. Una de ellas es la clave privada (id_rsa) la cual **NO** tendremos que compartir y luego la clave pública (id_rsa.pub) que es la que subiremos a nuestro servidor o al servidor que deseemos acceder sin que nos solicite password.
 
 Echamos un vistazo a la clave pública:
@@ -77,7 +75,6 @@ Echamos un vistazo a la clave pública:
 $ cat id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDDGnQn+2Jld5Y/822sLmZc/1PC0+gm3ORtbRPEUvzuqMIMOVg2ImZPApj/d7+K57MPy7pQDn/iwi3QkLzpf/tL9LXF2+FouzVsSeZgR1dd7+3QGTMPch+5hXZxuims+zZOLFuXqXzhb00TSMbH5yVBH1gv+qCZj7N/DvRgok+2Fae1I+Fr0/7ALIaLfFEo5CYfrUNyfuD0ZpJ9GIrv6+sBWbCOomzuw5SMIccbX4VQ+DLmEoMwl3A3GQf3yNrAtjjolPm1zJ0YAd+Kr5UWREugxTgLslnMHFVozPn5byuj2fT4dQPiB0Zj/mzQf+BWGaT+lI3P/P08mG0gdpD39MUiKGjh0XYbQQh731cnMJK1gTzphPyinROv4S/Pj1HFhSEAbsZJP9l/ZyVi1qupTOFocWEQf0o4yNsVpogDpUQJwEyG5ftQDsmjbHD5EQRMFXktnItdSqhbTVL+qSiB96Jd66CV9+bklUQbp9w3pT0beZDrKQdPKmrlRYS2MeZB1z5kMnDTm/C1fSDHAuqYAxCyZTBc3ncBpzW7AnWczUdk0zIiToGVs8wE16suGWqlZA2gGLIkY3LdvAkzgm9HBIosgZVEPABN4nbMAqv/NqXJd2/e6cFICllX8YhyBcYL9OfwFPK6OUxQg0AKk/rJwSO6aGxDOIHVY16+DvwuQRx1SQ== jmdlr@casa
 ```
-
 Ese texto es lo que tenemos que copiar en todos los servidores remotos a los que queramos conectar vía ssh, pero para hacerlo más fácil, existe un comando que nos ayudará a copiarlo.
 
 ## Copiando las claves
@@ -88,7 +85,6 @@ Simplemente usaremos el siguiente comando desde la ruta donde tenemos nuestra cl
 $ cd /home/jmdlr/.ssh
 $ ssh-copy-id -i id_rsa.pub usuario@IP_servidor_remoto
 ```
-
 Donde aparece **usuario** tendremos que poner nuestro nombre de usuario que utilizamos para acceder al servidor y donde aparece **IP_servidor_remoto** la dirección IP o el registro DNS que nos de acceso al servidor donde queremos añadir nuestra clave pública.
 
 En mi ejemplo, accediendo con mi usuario "jmdlr" sería así:
@@ -96,7 +92,6 @@ En mi ejemplo, accediendo con mi usuario "jmdlr" sería así:
 $ cd /home/jmdlr/.ssh
 $ ssh-copy-id -i id_rsa.pub jmdlr@10.5.1.5
 ```
-
 Y si todo va bien me diría lo siguiente hasta preguntarme cual es mi **password** del usuario para acceder por primera vez:
 <pre>
 /usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "id_rsa.pub"
