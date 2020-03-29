@@ -111,4 +111,4 @@ En el paso que solicita el "password" tendremos que añadirlo y para la próxima
 {: .text-justify}
 Espero que os haya sido fácil de seguir, cualquier cosilla preguntadme en mi cuenta de Twitter: @jmdelosreyes
 
-..logout..
+>logout<
