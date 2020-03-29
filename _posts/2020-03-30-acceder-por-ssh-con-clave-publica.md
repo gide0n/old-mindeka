@@ -56,7 +56,7 @@ Breve explicación de cada pregunta:
 El resto de líneas solo confirman que se han creado las claves con tu figerprint asociado.
 Ya estaría lista.
 
-## Consultar nuestra clave pública
+## Consultando nuestra clave pública
 
 Ahora ya podremos ver nuestras claves generadas, si no hemos cambiado la ruta por defecto estará en una carpeta oculta dentro de la "home" de nuestro usuario llamada **.ssh/**
 {: .text-justify}
@@ -78,7 +78,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDDGnQn+2Jld5Y/822sLmZc/1PC0+gm3ORtbRPEUvzu
 ```
 Ese texto es lo que tenemos que copiar en todos los servidores remotos a los que queramos conectar vía ssh, pero para hacerlo más fácil, existe un comando que nos ayudará a copiarlo.
 {: .text-justify}
-## Copiando las claves
+## Copiando la clave pública al servidor
 
 Simplemente usaremos el siguiente comando desde la ruta donde tenemos nuestra claves.
 
