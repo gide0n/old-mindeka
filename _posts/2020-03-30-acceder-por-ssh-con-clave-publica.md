@@ -1,11 +1,15 @@
 ---
 title: "Acceder por ssh con clave pública"
-excerpt: "Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag."
-last_modified_at: 2017-03-09T10:27:01-05:00
+categories:
+  - Informática
 tags: 
-  - code
-  - syntax highlighting
+  - ssh
+  - sysadmin
 ---
+
+Este tipo de artículos sobre tareas de un "sysadmin", los publicaré de vez en cuando, explicando de manera sencilla, para que tanto los que se dedican a ello, como los que no lo hacen , aprendan, porque aun a día de hoy hay gente que me pregunta como "hacerlo" cuando debería ser una práctica casi obligatoria para acceder a nuestros sistemas por ssh.
+
+Vamos a ello, hoy trataremos como dice el artículo, como 
 
 ## Code Blocks in Lists
 
