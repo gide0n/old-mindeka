@@ -42,7 +42,7 @@ En resumen, no merece los 21€ que vale, es un comic que no volvería a leer ni
 
 # NOTA
 {: .text-center}
-[8.0](#){: .btn .btn--primary .btn--x-large}
+[3.5](#){: .btn .btn--primary .btn--x-large}
 {: .text-center}
 **Lo mejor:** Los detalles en cada dibujo de Burnham y el comienzo intrigante de la historia que te absorbe y quieres más con cada hoja que terminas.
 {: .notice--success}
