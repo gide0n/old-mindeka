@@ -1,5 +1,5 @@
 ---
-title: "Opinión: Beastars"
+title: "Opinión: Nameless"
 image: 
   path: /images/nameless.jpeg
   thumbnail: /images/nameless-tn.jpg
@@ -8,6 +8,8 @@ categories:
   - Comics
 tags:
   - Image
+  - Terror
+  - Ci-Fi
 ---
 
 Ayer mismo leí este comic aunque fue publicado hace ya la friolera de cuatro años. Tenía ganas y buscaba ese momento de tranquilidad, y que mejor momento que encerrado en casa por la cuarentena, porque si digo que el guión viene de la mano de Grant Morrison, quien le conozca ya sabe que la cosa no será sencilla ni fácil, será un viaje intenso y sobre todo muy díficil de digerir en todos los aspectos. Sirva por lo tanto mi opinión tras conocer al escritor escocés después de leer su explosión creadora de **Arkham Asylum". Sin más preámbulos, ¿qué tal es **Nameless**?
