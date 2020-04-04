@@ -5,7 +5,6 @@ categories:
 tags:
   - Rock
   - Alternativo
-  - Seattle
 last_modified_at: 2020-03-26T02:49:35-05:00
 ---
 
