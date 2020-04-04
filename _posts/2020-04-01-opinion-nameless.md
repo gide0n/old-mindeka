@@ -27,14 +27,17 @@ A partir de aquí, ya podéis imaginaros, la misión nos llevará al espacio hac
 {: .text-justify}
 
 ## Guión
+
 Y toca hablar de la trama, si os digo que comienza apuntando muy alto, no engañaría a nadie, según se presenta la historia, tiene su enganche e interés, de hecho me llamó tanto la atención que los tres primeros capítulos de los seis que los conforman cayeron de un golpe, observando cada detalle que quería saber más y más, aunque su protagonista si os soy sincero, nos es nada llamativo, es un tipo con gran interés por el ocultismo con aire chulesco, prepotente y que en cada frase que suelta hay una palabrota, por lo no llega a interesar en lo más mínimo. Aun con esto el comic como digo propone cosas interesantes sobre todo por las numerosas referencias que se hacen a la religión y a la magia... pero por desgracia, la historia se va enfrascando en un ir y venir de pensamientos, realidades, nihilismo, violencia, terror... un "sinsentido" que cuando termina, prácticamente estas dando las gracias y diciéndote a ti mismo eso de ¿aquí termina? Pues sí, así termina y no hay más, vuelves a ojear por si te has perdido algo, pero no, la trama se hace mil pedazos y no hay nada más. El vacío = **Grant Morrison**.
 {: .text-justify}
 
 ## Dibujo
+
 Lo más sobresaliente del comic sin dudarlo, **Chris Burnham** dibuja de maravilla y ya no solo eso, sino la calidad en el detalle, cada viñeta en su composición te muestra claramente lo que te quiere contar aun cuando llegado el momento, la historia, es de no saber donde agarrarse y lo único que lo salva es el bueno de Chris. El dibujo llega a ser tan bestial, que quedarán en mi memoria, cada detallito en aquellas escenas más cercanas al terror, en donde se muestra el sufrimiento, el dolor o la ira. En cuando al color, no llega a la línea del dibujo, pero está bien aplicado durante todo el tomo.
 {: .text-justify}
 
 ## Conclusión
+
 La obra de Grant Morrison siempre es dura, violenta, sangrienta y con buenas historias, al menos lo que conocía hasta ahora, pero **Nameless** mezcla todo eso con una historia que no me convenció y no convencerá a cualquier lector de comics, porque parece que el guión está solo para poder mostrarnos un arte extremadamente violento. Podrá interesar a aquellos que tengan entre sus aficiones el ocultismo o amor platónico por cualquier película de terror de ciencia ficción que se desarrolle en el espacio, pero poco más. 
 {: .text-justify}
 Soy de la opinión que por hacer algo enrevesado, que sea díficil de entender, no tiene porque ser bueno, a mucha gente este tipo de trabajos les encantará y dirán que no hay nada igual de maravilloso, pero no es así, no hay que engañar y hacer creer que es la ópera prima del autor y más cuando según terminas el comic el propio escritor (sí, lo juro que es así) desarrolla una explicación de **cinco hojas** sobre todo lo que nos intenta contar en cada una de las 157 páginas que tiene. Esto es un claro ejercicio de explicaciones innecesarias si lo que nos quiere contar fuera un puzzle en la que sus fichas encajaran, pero no es así y por ello toda esa parrafada que desistí a la mitad intenta argumentar lo que no consigue en la totalidad de las viñetas.
@@ -43,6 +46,7 @@ En resumen, no merece los 21€ que vale, es un comic que no volvería a leer ni
 {: .text-justify}
 
 # NOTA
+
 {: .text-center}
 [3.5](#){: .btn .btn--primary .btn--x-large}
 {: .text-center}
