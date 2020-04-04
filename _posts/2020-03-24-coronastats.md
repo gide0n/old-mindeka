@@ -8,10 +8,6 @@ tags:
   - Websites
 ---
 
----
-
-
-
 Desde que empezaron los primeros casos de **Coronavirus** uso la siguiente página para estar informado de como evoluciona, la ya conocida "pandemia" por este virus. 
 {: .text-justify}
 
