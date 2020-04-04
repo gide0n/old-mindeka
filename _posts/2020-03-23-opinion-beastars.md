@@ -11,6 +11,10 @@ tags:
   - Netflix
 ---
 
+---
+
+
+
 Debo decir antes de nada, que no me considero un gran experto en **anime**, sino que soy de los que va picando de aquí para allá según el tema que trate el anime en cuestión y me interese, es por ello que este texto debe entenderse como lo que es, una opinión de la serie después de haber visto la primera temporada de **Beaststars** estrenada por Neflix el pasado 13 de Marzo.
 Comenzaré diciendo que **Beaststars** es una serie que sin duda no te dejará indiferente, si algo te muestra, son unos personajes muy bien definidos con rasgos que identifican claramente sus emociones, sus miedos, sus pensamientos, etc.
 {: .text-justify}
@@ -31,6 +35,7 @@ La trama se desarrollará justo cuando **Tem**, una alpaca es asesinada salvajem
 
 Sin destripar nada de la trama en sí, según he explicado en la sinopsis, hay dos claros puntos de partida que intentan ser el inicio del hilo argumental:
 {: .text-justify}
+
 * El asesinato de Tem, y
 * La relación de Legoshi con Haru.
 
@@ -40,6 +45,7 @@ Pero todo esto, se rompe en pedazos, cuando se proyecta delante de nuestros ojos
 {: .text-justify}
 A partir de aquí, entrarán en juego otros aspectos como el club de teatro, las confesiones entre amigos, el "acoso" colegial (es bastante notoria y frecuente), facetas que van cogiendo y dando fuerza a esta serie.
 {: .text-justify}
+
 ## Imagen & Audio
 
 La calidad visual es innegable en todos los aspectos y llega a enamorar la calidad artística, encima ahora que está tan de moda y críticado a la vez el CGI, podemos decir que aquí no hace aguas, que en esta serie si está bien construido y da fe de que si le pones empeño puede ser realmente interesante y quedar perfectamente ajustado para dar una sensación agradable y que guste ver. Este es el caso 
@@ -51,6 +57,7 @@ También son reseñables las diferentes melodías pausadas, tranquilas que van a
 {: .text-justify}
 Su conjunto es de sobresaliente.
 {: .text-justify}
+
 ## Conclusión
 
 Una serie anime muy bien realizada y adaptada, que por lo que he podido leer, fue bastante críticada en sus inicios, pero que en todos sus aspectos cumple con creces.
@@ -59,7 +66,9 @@ Su historia entretendrá tanto a los más exigentes como a los que desean pasar 
 {: .text-justify}
 Por lo demás, creo que es una serie realmente interesante, que deja con ganas de más en su final y que esperemos que Netflix continue con su segunda temporada.
 {: .text-justify}
+
 # NOTA
+
 {: .text-center}
 [8.0](#){: .btn .btn--primary .btn--x-large}
 {: .text-center}
