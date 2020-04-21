@@ -1,5 +1,5 @@
 ---
-title: "Las tradumaquetas"
+title: "Estado de la tradumaquetación actualmente"
 excerpt_separator: "<!--more-->"
 categories:
   - Comics
