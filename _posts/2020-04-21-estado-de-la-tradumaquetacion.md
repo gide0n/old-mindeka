@@ -70,3 +70,14 @@ Otro por la calidad de sus cómics, añado a la lista a [INcomics](https://incom
 {: .text-justify}
 
 Y por último, no podía dejar fuera [Tierra de Larabeau](https://larabeau169.blogspot.com), no es ningún grupo, sino una única persona que de vez en cuando tradumaqueta pero que su labor principal es **compartir** todos los cómics que va encontrando por internet y también de los diferentes grupos que he nombrado anteriormente. Su trabajo no tiene precio, es incalculable. Enlaza  y sube a MEGA la mayor parte de la escena y se puede encontrar de todo. ¡Es el típico link que tienes que tener de manera obligatoria en tus bookmarks del navegador!
+{: .text-justify}
+
+## Conclusión
+
+La escena de tradumaquetación se encuentra en el mejor momento posible, grupos como **Infinity Comics** o **INcomics** están haciendo un trabajo realmente bueno en todas las facetas, lo que hace que muchos cómics no se distingan casi del original salvo en lo *físico*. Aparte de eso, no sé si es por el confinamiento de la cuarentena, que prácticamente a diario hay algún cómic nuevo traducido en alguno de los grupos, lo que te deja con un gran sabor de boca. Si a esto sumamos que las alianzas para distribuir *tradumaquetas* entre los grupos siguen funcionando, el doble trabajo está casi desaparecido, lo que es una de las mejores noticias.
+{: .text-justify}
+
+Por último os dejo un video, realmente interesante sobre el **Cómic y la piratería** ya que a muchos esto de la tradumaquetación les habrá sonado a esto y aunque no difiere mucho, hay que tener muchas cosas en cuenta y dejaré la que creo que para mi es la más importante, la de poder acceder a determinados cómics en mi idioma, el castellano, y que de otra manera sería imposible bien porque no lo traducen o traen para España. El resto lo explican muy bien en el siguiente vídeo: [Cómics y Piratería](https://youtu.be/sk9J7p1oyQE).
+{: .text-justify}
+
+¡Nos vemos entre las viñetas!
