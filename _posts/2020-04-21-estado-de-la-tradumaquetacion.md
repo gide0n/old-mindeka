@@ -24,7 +24,7 @@ Todo este proceso de *tradumaquetación* prácticamente, salvo casos concretos, 
 ¿Por qué este artículo? porque tras mi vuelta hace unas cuantas semanas a la tradumaquetación, por el confinamiento de por medio, quería dar mi punto de vista de la situación que se vive en esta parte *oculta* de los cómics porque se sigue <u>pecando de los mismos errores</u> aunque en general hay *esperanzas* de que pueda seguir mejorando por algunas cosilla que he visto a tener en cuenta.
 {: .text-justify}
 
-            ![](C:\Users\joreyes\Documents\GitHub\mindeka\images\harleen.jpg)
+![center-aligned-image](\images\harleen.jpg)
 
 ## Estado actual
 
