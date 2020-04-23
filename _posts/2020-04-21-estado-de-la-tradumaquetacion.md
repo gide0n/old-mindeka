@@ -88,4 +88,4 @@ La escena de tradumaquetación se encuentra en el mejor momento posible, grupos 
 Por último os dejo un video, realmente interesante sobre el **Cómic y la piratería** ya que a muchos esto de la tradumaquetación les habrá sonado a esto y aunque no difiere mucho, hay que tener muchas cosas en cuenta y dejaré la que creo que para mi es la más importante, la de poder acceder a determinados cómics en mi idioma, el castellano, y que de otra manera sería imposible bien porque no lo traducen o traen para España. El resto lo explican muy bien en el siguiente vídeo: [**Cómics y Piratería**](https://youtu.be/sk9J7p1oyQE).
 {: .text-justify}
 
-¡Nos vemos entre las viñetas!
+¡¡¡Nos vemos entre las viñetas!!!
