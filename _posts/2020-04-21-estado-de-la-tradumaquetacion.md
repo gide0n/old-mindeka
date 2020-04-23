@@ -97,6 +97,6 @@ La escena de tradumaquetación se encuentra en buen momento, grupos como **Legi�
 Por último os dejo un video, realmente interesante sobre los **Cómics y la piratería** ya que a muchos esto de la *tradumaquetación* les habrá sonado rápidamente a esa unión y aunque puede llevar a ese pensamiento, hay que tener muchas cosas en cuenta para esa valoración, sobre todo la que para mí es la más importante y es la de <u>poder acceder a determinados cómics en mi idioma, el castellano, y que de otra manera sería imposible bien porque no lo traducen o traen para España</u>. El resto de puntualizaciones o detalles lo explican muy bien en el siguiente vídeo realizado por *Galielón*.
 {: .text-justify}
 
-{% include responsive-embed url="[EL CÓMIC Y LA PIRATERÍA- Editorial - YouTube](https://www.youtube.com/embed/sk9J7p1oyQE)" %}
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/sk9J7p1oyQE" %}
 
 ¡Nos vemos entre las viñetas!
