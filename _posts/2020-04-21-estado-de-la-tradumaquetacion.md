@@ -24,7 +24,7 @@ Todo este proceso de *tradumaquetación* prácticamente, salvo casos concretos, 
 ¿Por qué este artículo? porque tras mi vuelta hace unas cuantas semanas a la tradumaquetación, por el confinamiento de por medio, quería dar mi punto de vista de la situación que se vive en esta parte *oculta* de los cómics porque se sigue <u>pecando de los mismos errores</u> aunque en general hay *esperanzas* de que pueda seguir mejorando por algunas cosilla que he visto a tener en cuenta.
 {: .text-justify}
 
-![image-center]({{ '/images/harleen.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/dccomics01.jpg' | absolute_url }}){: .align-center}
 
 ## Estado actual
 
@@ -57,7 +57,7 @@ Analizando estos puntos, me quedo con que podemos ver que la escena ahora mismo 
 Por último y segundo punto es el tema del *corrector*, <u>la mejor noticia que podíamos tener</u>, muchos cómics cuando los coges y lo vas a leer, sabiendo que está en tu idioma, te da una sensación de emoción notoria y más si es uno de los top, pero en el momento de leerlo ves que a nivel de textos hay numerosos errores, el contexto no concuerda con la historia, faltan tildes, tiempos verbales incorrectos, etc... eso te lleva a una desesperación total... y por ello aquí entra la figura del *corrector*, que será quién revise y vele que el texto, la gramática es correcta y publicable. Esto hay que valorarlo como algo muy positivo, aunque también es cierto que salvo dos grupos, el resto no ha añadido esta figuera, esperemos que con el tiempo termine por estandarizarse.
 {: .text-justify}
 
-![image-center]({{ '/images/dccomics.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/dccomics02.jpg' | absolute_url }}){: .align-center}
 
 ## Grupos de tradumaquetación
 
@@ -77,6 +77,8 @@ Otro por la calidad de sus cómics, añado a la lista a [<mark>INcomics</mark>](
 
 Y por último, no podía dejar fuera [<mark>Tierra de Larabeau</mark>](https://larabeau169.blogspot.com), no es ningún grupo, sino una única persona que de vez en cuando tradumaqueta pero que su labor principal es **compartir** todos los cómics que va encontrando por internet y también de los diferentes grupos que he nombrado anteriormente. Su trabajo no tiene precio, es incalculable. Enlaza  y sube a MEGA la mayor parte de la escena y se puede encontrar de todo. ¡Es el típico link que tienes que tener de manera obligatoria en tus bookmarks del navegador!
 {: .text-justify}
+
+![image-center]({{ '/images/dccomics03.jpg' | absolute_url }}){: .align-center}
 
 ## Conclusión
 
