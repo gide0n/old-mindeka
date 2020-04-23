@@ -57,6 +57,8 @@ Analizando estos puntos, me quedo con que podemos ver que la escena ahora mismo 
 Por último y segundo punto es el tema del *corrector*, <u>la mejor noticia que podíamos tener</u>, muchos cómics cuando los coges y lo vas a leer, sabiendo que está en tu idioma, te da una sensación de emoción notoria y más si es uno de los top, pero en el momento de leerlo ves que a nivel de textos hay numerosos errores, el contexto no concuerda con la historia, faltan tildes, tiempos verbales incorrectos, etc... eso te lleva a una desesperación total... y por ello aquí entra la figura del *corrector*, que será quién revise y vele que el texto, la gramática es correcta y publicable. Esto hay que valorarlo como algo muy positivo, aunque también es cierto que salvo dos grupos, el resto no ha añadido esta figuera, esperemos que con el tiempo termine por estandarizarse.
 {: .text-justify}
 
+![image-center]({{ '/images/dccomics.jpg' | absolute_url }}){: .align-center}
+
 ## Grupos de tradumaquetación
 
 A continuación os dejo unos cuantos grupos
