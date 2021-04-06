@@ -1,5 +1,5 @@
 ---
-title: "'Trouble's Coming' de Royal Blood"
+title: "'Trouble`s Coming' de Royal Blood"
 categories:
   - Música
 tags:
