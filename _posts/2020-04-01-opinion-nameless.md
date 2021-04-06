@@ -1,5 +1,5 @@
 ---
-title: "Opinión: Nameless"
+title: "Reseña| Nameless"
 image: 
   path: /images/nameless.jpeg
   thumbnail: /images/nameless-tn.jpg
