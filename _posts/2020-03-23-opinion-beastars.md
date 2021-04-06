@@ -1,5 +1,5 @@
 ---
-title: "Opinión: Beastars"
+title: "Crítica: Beastars"
 image: 
   path: /images/beastars-tn.jpg
   thumbnail: /images/beastars-tn.jpg
