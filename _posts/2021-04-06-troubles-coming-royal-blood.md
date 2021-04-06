@@ -1,5 +1,5 @@
 ---
-title: "'Troubles Coming' de Royal Blood"
+title: "'Trouble´s Coming' de Royal Blood"
 categories:
   - Música
 tags:
@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2021-04-06T17:08:00
 ---
 
-{% include responsive-embed url="https://www.youtube-nocookie.com/embed/uURsMKMloM8"
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/uURsMKMloM8" %}
 
 ---
 
