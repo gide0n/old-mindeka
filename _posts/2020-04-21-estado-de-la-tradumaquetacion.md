@@ -1,5 +1,5 @@
 ---
-title: "Estado de la tradumaquetación actualmente"
+title: "Opinión: Estado de la tradumaquetación actualmente"
 excerpt_separator: "<!--more-->"
 categories:
   - Comics
