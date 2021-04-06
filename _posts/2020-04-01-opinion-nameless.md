@@ -5,7 +5,7 @@ image:
   thumbnail: /images/nameless-tn.jpg
   caption: "Imagen de [imagecomics.com](https://imagecomics.com/comics/series/nameless)"
 categories:
-  - Comics
+  - Cómics
 tags:
   - Image
   - Terror
