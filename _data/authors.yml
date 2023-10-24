@@ -1,13 +1,13 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
+jmdlr:
+  name: jmdlr
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  mastodon: "@jmdelosreyes@masto.es"
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
+    - title: Mastodon
+      url: https://masto.es/@jmdelosreyes
       icon: fab fa-twitter-square
 
 Cornelius Fiddlebone:
